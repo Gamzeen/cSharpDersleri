@@ -1,0 +1,7 @@
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\bin\Debug\OOP.exe.config
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\bin\Debug\OOP.exe
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\bin\Debug\OOP.pdb
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\obj\Debug\OOP.exe
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\obj\Debug\OOP.pdb
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache

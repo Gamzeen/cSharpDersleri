@@ -1,0 +1,7 @@
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\bin\Debug\IfElse.exe
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\bin\Debug\IfElse.pdb
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\obj\Debug\IfElse.exe
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\obj\Debug\IfElse.pdb
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\IfElse\obj\Debug\IfElse.csproj.AssemblyReference.cache

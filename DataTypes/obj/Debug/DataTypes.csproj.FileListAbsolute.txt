@@ -1,0 +1,7 @@
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\obj\Debug\DataTypes.pdb
+C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
