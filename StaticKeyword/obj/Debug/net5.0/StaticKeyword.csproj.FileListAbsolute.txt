@@ -1,0 +1,16 @@
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\StaticKeyword.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\StaticKeyword.deps.json
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\StaticKeyword.runtimeconfig.json
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\StaticKeyword.runtimeconfig.dev.json
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\StaticKeyword.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\ref\StaticKeyword.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\bin\Debug\net5.0\StaticKeyword.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.AssemblyInfo.cs
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\ref\StaticKeyword.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticKeyword\obj\Debug\net5.0\StaticKeyword.genruntimeconfig.cache

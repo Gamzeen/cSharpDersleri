@@ -1,0 +1,16 @@
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\StaticCtor.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\StaticCtor.deps.json
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\StaticCtor.runtimeconfig.json
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\StaticCtor.runtimeconfig.dev.json
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\StaticCtor.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\ref\StaticCtor.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\bin\Debug\net5.0\StaticCtor.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.AssemblyInfoInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.AssemblyInfo.cs
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\ref\StaticCtor.dll
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StaticCtor\obj\Debug\net5.0\StaticCtor.genruntimeconfig.cache

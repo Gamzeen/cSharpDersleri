@@ -5,3 +5,10 @@ C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Inheritance\obj\Debug\Inherita
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Inheritance\obj\Debug\Inheritance.exe
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Inheritance\obj\Debug\Inheritance.pdb
