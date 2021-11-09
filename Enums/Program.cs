@@ -16,16 +16,16 @@ namespace Enums
         }
         static void Main(string[] args)
         {
-            Level level = Level.Low;
+            Level level = Level.Medium;
             switch (level)
             {
-                case Level.Low:
+                case 0:
                     Console.WriteLine("Level Low"); 
                     break;
                 case Level.Medium:
                     Console.WriteLine("Level Medium"); 
                     break;
-                case Level.High:
+                case (Level)2:
                     Console.WriteLine("Level High"); 
                     break;
                 
