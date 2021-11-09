@@ -5,3 +5,10 @@ C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Arrays\obj\Debug\Arrays.csproj
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Arrays\obj\Debug\Arrays.exe
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Arrays\obj\Debug\Arrays.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\bin\Debug\Arrays.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\bin\Debug\Arrays.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\obj\Debug\Arrays.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Arrays\obj\Debug\Arrays.pdb

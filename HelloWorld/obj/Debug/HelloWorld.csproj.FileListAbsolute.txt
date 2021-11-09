@@ -5,3 +5,10 @@ C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\HelloWorld\obj\Debug\HelloWorl
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\HelloWorld\obj\Debug\HelloWorld.pdb

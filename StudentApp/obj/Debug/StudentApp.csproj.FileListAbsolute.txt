@@ -5,3 +5,10 @@ C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\StudentApp\obj\Debug\StudentAp
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\StudentApp\obj\Debug\StudentApp.exe
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\StudentApp\obj\Debug\StudentApp.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StudentApp\obj\Debug\StudentApp.pdb

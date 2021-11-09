@@ -5,3 +5,10 @@ C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Conversions\obj\Debug\Conversi
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Conversions\obj\Debug\Conversions.exe
 C:\Users\GamzeN.Demir\source\repos\cSharpDersleri\Conversions\obj\Debug\Conversions.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\bin\Debug\Conversions.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\bin\Debug\Conversions.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\obj\Debug\Conversions.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\obj\Debug\Conversions.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\Conversions\obj\Debug\Conversions.pdb
