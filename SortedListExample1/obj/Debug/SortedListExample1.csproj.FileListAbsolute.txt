@@ -1,0 +1,7 @@
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\bin\Debug\SortedListExample1.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\bin\Debug\SortedListExample1.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\bin\Debug\SortedListExample1.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\obj\Debug\SortedListExample1.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\obj\Debug\SortedListExample1.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\obj\Debug\SortedListExample1.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\SortedListExample1\obj\Debug\SortedListExample1.pdb

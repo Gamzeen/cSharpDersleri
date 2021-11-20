@@ -16,7 +16,8 @@ namespace Enums
         }
         static void Main(string[] args)
         {
-            Level level = Level.Medium;
+            Level level = Level.High;
+            Level level1 = (Level)1;
             switch (level)
             {
                 case 0:

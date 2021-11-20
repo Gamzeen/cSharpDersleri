@@ -6,10 +6,18 @@ using System.Threading.Tasks;
 
 namespace Arrays
 {
+    public class Person
+    {
+        public string Name { get; set; }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
+            List<Person> lInt = new List<Person>();
+            lInt.Add(new Person() { Name = "Gamnze"}); 
+
             string[] passengers = { "John", "Michael", "Sara", "Ester", "Angelina" };
             string[] pass2 = new string[] { "", "", "", "" };
 
