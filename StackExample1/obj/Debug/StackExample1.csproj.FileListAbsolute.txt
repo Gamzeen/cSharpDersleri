@@ -1,0 +1,7 @@
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\bin\Debug\StackExample1.exe.config
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\bin\Debug\StackExample1.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\bin\Debug\StackExample1.pdb
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\obj\Debug\StackExample1.csproj.AssemblyReference.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\obj\Debug\StackExample1.csproj.CoreCompileInputs.cache
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\obj\Debug\StackExample1.exe
+C:\Users\GamzeN.Demir\Documents\GitHub\cSharpDersleri\StackExample1\obj\Debug\StackExample1.pdb
