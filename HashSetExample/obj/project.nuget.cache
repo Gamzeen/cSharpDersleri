@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQnhb5N1xMfJdtZXLkB4G281BwHh9E5HleGAQ8QeA4CMMEp2Cnv1R6GiLzu0EcqNrGxnSb0+8F1zTAzh3gAwFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamze Nur Demir\\Documents\\GitHub\\cSharpDersleri\\HashSetExample\\HashSetExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamze Nur Demir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

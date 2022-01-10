@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e6E3NxsLY3h0w+HBRNK8gaVVB4uJWXTBxQJZwkqoja30mpKtMhP+sldPNalU3dY+TyBjH4AKZ24iqRVCjKGRDQ==",
+  "dgSpecHash": "RpwFMyzvWqpSJaXRuBkaA27YrVM3IKTha17r2JV4hs9KFyzfNwUlqXBvv8fzPS8C4+yqkfr/G+7oW4+TZiuSZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GamzeN.Demir\\Documents\\GitHub\\cSharpDersleri\\StaticCtor\\StaticCtor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Gamze Nur Demir\\Documents\\GitHub\\cSharpDersleri\\StaticCtor\\StaticCtor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamze Nur Demir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
